@@ -1,0 +1,14 @@
+C:\Users\R3254\OneDrive\שולחן העבודה\ניסיון 4\ניסיון 4\bin\Debug\ניסיון 4.exe.config
+C:\Users\R3254\OneDrive\שולחן העבודה\ניסיון 4\ניסיון 4\bin\Debug\ניסיון 4.exe
+C:\Users\R3254\OneDrive\שולחן העבודה\ניסיון 4\ניסיון 4\bin\Debug\ניסיון 4.pdb
+C:\Users\R3254\OneDrive\שולחן העבודה\ניסיון 4\ניסיון 4\obj\Debug\ניסיון 4.csproj.AssemblyReference.cache
+C:\Users\R3254\OneDrive\שולחן העבודה\ניסיון 4\ניסיון 4\obj\Debug\ניסיון 4.csproj.CoreCompileInputs.cache
+C:\Users\R3254\OneDrive\שולחן העבודה\ניסיון 4\ניסיון 4\obj\Debug\ניסיון 4.exe
+C:\Users\R3254\OneDrive\שולחן העבודה\ניסיון 4\ניסיון 4\obj\Debug\ניסיון 4.pdb
+C:\Users\R3254\OneDrive\שולחן העבודה\פרויקט סודוקו\משימות\ניסיון 256 לפונקצית סכום\ניסיון 4\ניסיון 4\bin\Debug\ניסיון 4.exe.config
+C:\Users\R3254\OneDrive\שולחן העבודה\פרויקט סודוקו\משימות\ניסיון 256 לפונקצית סכום\ניסיון 4\ניסיון 4\bin\Debug\ניסיון 4.exe
+C:\Users\R3254\OneDrive\שולחן העבודה\פרויקט סודוקו\משימות\ניסיון 256 לפונקצית סכום\ניסיון 4\ניסיון 4\bin\Debug\ניסיון 4.pdb
+C:\Users\R3254\OneDrive\שולחן העבודה\פרויקט סודוקו\משימות\ניסיון 256 לפונקצית סכום\ניסיון 4\ניסיון 4\obj\Debug\ניסיון 4.csproj.AssemblyReference.cache
+C:\Users\R3254\OneDrive\שולחן העבודה\פרויקט סודוקו\משימות\ניסיון 256 לפונקצית סכום\ניסיון 4\ניסיון 4\obj\Debug\ניסיון 4.csproj.CoreCompileInputs.cache
+C:\Users\R3254\OneDrive\שולחן העבודה\פרויקט סודוקו\משימות\ניסיון 256 לפונקצית סכום\ניסיון 4\ניסיון 4\obj\Debug\ניסיון 4.exe
+C:\Users\R3254\OneDrive\שולחן העבודה\פרויקט סודוקו\משימות\ניסיון 256 לפונקצית סכום\ניסיון 4\ניסיון 4\obj\Debug\ניסיון 4.pdb
