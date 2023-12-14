@@ -1,0 +1,14 @@
+C:\Users\R3254\OneDrive\שולחן העבודה\פרויקט סודוקו\משימות\ז' חשוון\Class\Class\bin\Debug\Class.exe.config
+C:\Users\R3254\OneDrive\שולחן העבודה\פרויקט סודוקו\משימות\ז' חשוון\Class\Class\bin\Debug\Class.exe
+C:\Users\R3254\OneDrive\שולחן העבודה\פרויקט סודוקו\משימות\ז' חשוון\Class\Class\bin\Debug\Class.pdb
+C:\Users\R3254\OneDrive\שולחן העבודה\פרויקט סודוקו\משימות\ז' חשוון\Class\Class\obj\Debug\Class.csproj.AssemblyReference.cache
+C:\Users\R3254\OneDrive\שולחן העבודה\פרויקט סודוקו\משימות\ז' חשוון\Class\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+C:\Users\R3254\OneDrive\שולחן העבודה\פרויקט סודוקו\משימות\ז' חשוון\Class\Class\obj\Debug\Class.exe
+C:\Users\R3254\OneDrive\שולחן העבודה\פרויקט סודוקו\משימות\ז' חשוון\Class\Class\obj\Debug\Class.pdb
+C:\Users\R3254\OneDrive\שולחן העבודה\פרויקט סודוקו\משימות\ו כסלו- עדכון משבצת במחלקת לוח\Class\Class\obj\Debug\Class.csproj.AssemblyReference.cache
+C:\Users\R3254\OneDrive\שולחן העבודה\פרויקט סודוקו\משימות\ו כסלו- עדכון משבצת במחלקת לוח\Class\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+C:\Users\R3254\OneDrive\שולחן העבודה\פרויקט סודוקו\משימות\ו כסלו- עדכון משבצת במחלקת לוח\Class\Class\obj\Debug\Class.exe
+C:\Users\R3254\OneDrive\שולחן העבודה\פרויקט סודוקו\משימות\ו כסלו- עדכון משבצת במחלקת לוח\Class\Class\obj\Debug\Class.pdb
+C:\Users\R3254\OneDrive\שולחן העבודה\פרויקט סודוקו\משימות\ו כסלו- עדכון משבצת במחלקת לוח\Class\Class\bin\Debug\Class.exe.config
+C:\Users\R3254\OneDrive\שולחן העבודה\פרויקט סודוקו\משימות\ו כסלו- עדכון משבצת במחלקת לוח\Class\Class\bin\Debug\Class.exe
+C:\Users\R3254\OneDrive\שולחן העבודה\פרויקט סודוקו\משימות\ו כסלו- עדכון משבצת במחלקת לוח\Class\Class\bin\Debug\Class.pdb
